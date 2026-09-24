@@ -1,7 +1,31 @@
-D-Mart Sales Analysis
+# Excel Lab 1 – Exploring DMart Sales Data
 
-This is my first data analysis project based on a D-Mart sales dataset. The Excel file includes details such as order information, product categories, regions, sales, and profit.
+## 📌 Overview
 
-In this project, I performed basic data analysis to understand sales performance, identify trends, and compare results across different regions and categories. I also worked on data cleaning and organization to make the dataset ready for analysis.
+This lab focuses on understanding the **DMart sales dataset**, its business context, key fields, and basic Git/GitHub workflow.
 
-Through this project, I developed a strong foundation in data understanding, basic analysis, and Excel skills, which are essential for real-world data analytics.
+## 🎯 Tasks Completed
+
+* Explored the **DMart sales dataset**
+* Identified key fields and business metrics
+* Examined regions and product categories
+* Identified total records and dataset structure
+* Set up **Git and GitHub**
+* Created a repository and pushed the dataset
+
+## 🛠️ Skills Used
+
+* Microsoft Excel
+* Data Exploration
+* Dataset Understanding
+* Git
+* GitHub
+* Version Control
+
+## 📊 Dataset
+
+**DMart Sales Dataset**
+
+## ✅ Status
+
+Lab completed and uploaded to GitHub.
